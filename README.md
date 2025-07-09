@@ -34,7 +34,7 @@ Open-source keeps me sane. Deadlines keep me caffeinated.
   <img src="https://github-readme-stats.vercel.app/api?username=AdityamishraGhb&show_icons=true&theme=radical" height="165" />
   <img src="https://streak-stats.demolab.com?user=AdityamishraGhb&theme=radical&border_radius=5" height="165" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityamihraGhb&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityamishraGhb&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
