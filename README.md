@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+ML+Explorer;Open+Source+Contributor;Bug+Fixer+by+Night;Code.+Debug.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+ML+Explorer;Bug+Fixer+by+Night;Code.+Debug.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Open-source keeps me sane. Deadlines keep me caffeinated.
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,mysql,tensorflow,opencv,postman" />
+  <img src="https://skillicons.dev/icons?i=python,c++,typescript,cpp,html,css,js,git,github,mysql,tensorflow,opencv" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Open-source keeps me sane. Deadlines keep me caffeinated.
 <p align="center">
  
   <a href="https://github.com/AdityamishraGhb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://https://www.linkedin.com/in/aditya-mishra-30ab9028b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aditya-mishra-30ab9028b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https:///x.com/aditya_m03" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
